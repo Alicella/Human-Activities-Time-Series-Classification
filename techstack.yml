@@ -2,7 +2,7 @@ repo_name: Alicella/Human-Activities-Time-Series-Classification
 report_id: c232a69fa0ebaaea4f77ab20e9e6f8f4
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:10:26+00:00'
+timestamp: '2024-02-29T18:20:31+00:00'
 requested_by: Alicella
 provider: github
 branch: main
@@ -133,8 +133,8 @@ tools:
   last_updated_by: Alice Dawn
   last_updated_on: 2023-11-25 23:44:37.000000000 Z
 - name: Zope
-  description: 'A free and open source web application server written in the object-oriented
-    programming language “Python” '
+  description: A free and open source web application server written in the object-oriented
+    programming language “Python”
   website_url: https://www.zope.org
   open_source: true
   hosted_saas: false
